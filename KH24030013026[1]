@@ -1,0 +1,1116 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="sentry-trace" content="85f21a9068914e9eb3b91d94163fb3ba-99014c847edc4cd8-0" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        
+<meta name="robots" content="noindex">
+
+
+        <title>
+Portfolio | HyperionDev
+</title>
+        <meta name="description" property="og:description" content="
+    Accelerate your career with a online coding bootcamp. Learn to code in just 3 - 6 months. 
+">
+        <meta name="title" property="og:title" content="
+    Portfolio | HyperionDev
+">
+
+        <link rel="shortcut icon" type="image/x-icon" href="/static/favicon/favicon.webp">
+        <link rel="apple-touch-icon" href="/static/favicon/favicon.webp">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"></noscript>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+        <!-- Custom CSS -->
+        <link href="/static/portal/assets/css/style_base_dashboard.css" rel="stylesheet">
+        
+<link href="/static/portal/assets/css/paid_dashboard.css" rel="stylesheet">
+<link href="/static/css/vle/task-overview-modal.css" rel="stylesheet">
+<link href="/static/css/vle/portfolio.css" rel="stylesheet">
+
+
+        <!-- jQuery CDN -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <!-- Popper.JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+        <!-- Bootstrap JS -->
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KKTBJ4T');</script>
+        <!-- End Google Tag Manager -->
+
+        <link type="text/css" href="/static/css/alert_message_styles-47a2c723b3c45e2d21b8.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXM7JJ9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <div class="wrapper">
+
+            <!-- Sidebar  -->
+            <nav id="sidebar">
+                <div class="sidebar-header">
+                    
+                    <a href="/" name="home">
+                        <img class="hyperion-logo-sidebar img-responsive" alt="HyperionDev logo"
+                        style="padding-top: 5px;width: 162px;" src="/static/images/logo.svg" />
+                    </a>
+                    
+                </div>
+                
+            </nav>
+            <!-- Page Content  -->
+            <div id="content">
+                <div class="navbar">
+                    <button type="button" id="sidebarCollapse" class="btn toggle-btn">
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+                <div class="main-content">
+                    
+<div class="row">
+    <section class="col-md-7 col-lg-9 main-content-panel">
+        <div class="profile">
+            <img class="img-responsive lazyload profile__avatar" src="/media/student_profile_pics/rw5tcgrdtuueijugfkg0ma.jpg" alt="Profile avatar">
+            <div class="profile__excerpt">
+                <h1 class="profile__excerpt-fullname">Katryn Helberg</h1>
+                <h3 class="profile__excerpt-bootcamp-level">Stellenbosch University Data Science Bootcamp in Partnership with HyperionDev Graduate </h3>
+                <div class="profile__excerpt-description"><p></p></div>
+                
+                <div class="certificates row pt-4">
+                    
+                    <div class="col-md-6 pl-0">
+                        <div class="card rounded-0 position-relative shadow-none border-dark mb-5">
+                            <div class="card-label position-absolute"> Stellenbosch University  </div>
+                            <div class="card-body">
+                                <a class="btn button certificate" target="_blank" href="/certificate/5243/certificate-of-completion?intent=view">View<br>certificate</a>
+                                
+                                    <a class="btn button certificate ml-2" href="/certificate/5243/certificate-of-completion?intent=download">Download<br>certificate</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </div>        
+
+        <div class="share card">
+            <div class="row">
+                <!-- 
+                <div class="col-12 col-sm-3 download">
+                    <a class="btn" href="" target="_blank">Download PDF</a>
+                </div> 
+                -->
+                <div class="col-12 col-sm-9 copy-link">
+                    <input id="jsUrl" type="text" name="url" />
+                    <button id="jsCopyLink" class="btn button">Copy link</button>
+                </div>
+                <div class="col-12 col-sm-3 social-media">
+                    <h5>Quick share</h5>
+                    <div class="icons">
+                        <a class="jsShare" href="https://www.facebook.com/sharer.php?u=" target="_blank">
+                            <img class="img-responsive lazyload" src="/static/images/vle/portfolio/facebook.svg" alt="Share with Facebook"></a>
+                        <a class="jsShare" href="https://www.linkedin.com/shareArticle?mini=true&url=" target="_blank" rel="noopener noreferrer">
+                            <img class="img-responsive lazyload" src="/static/images/vle/portfolio/linkedin.svg" alt="Share with LinkedIn"></a>
+                        <a class="jsShare" href="https://twitter.com/intent/tweet?url=" target="_blank" rel="noopener noreferrer">
+                            <img class="img-responsive lazyload" src="/static/images/vle/portfolio/twitter.svg" alt="Share with Twitter"></a>
+                        <a href="mailto:" target="_blank" rel="noopener noreferrer">
+                            <img class="img-responsive lazyload" src="/static/images/vle/portfolio/email.svg" alt="Share with Email"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center tasks card">
+            <h3>Stellenbosch University Data Science Bootcamp in Partnership with HyperionDev</h3>
+            <ul class="nav nav-levels nav-tabs level-tabs">
+                
+                <li class="nav-item" >
+                    <a id="jsLevel1Tab" class="nav-link active" data-toggle="tab" href="#jsLevel1">Level 1</a></li>
+                <li class="nav-item" >
+                    <a id="jsLevel2Tab" class="nav-link" data-toggle="tab" href="#jsLevel2">Level 2</a></li>
+                 
+                <li class="nav-item">
+                    <a id="jsLevel3Tab" class="nav-link" data-toggle="tab" href="#jsLevel3">Level 3</a></li>
+                
+                
+                
+            </ul>
+            <div class="tab-content clearfix">
+
+                <!-- START LEVEL 1 -->
+                <div id="jsLevel1" class="tab-pane active">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Task</th>
+                                    <th>Status <a class="status-popover" href="#" data-toggle="popover" title="Status" data-placement="top" data-html="true" data-content="<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate minima illum natus non ipsa cumque id doloremque molestias.</p>"><i class="fa fa-question-circle"></i></a></th>
+                                    <th>Score</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 1 -  Pseudo Code "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 1 -  Pseudo Code </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 2 -  Your First Computer Program and Using Variables "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 2 -  Your First Computer Program and Using Variables </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 3 -  The String and Numerical Data Type "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 3 -  The String and Numerical Data Type </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 4 -  Control Structures -  If, Elif, Else and the Boolean Data Type "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 4 -  Control Structures -  If, Elif, Else and the Boolean Data Type </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 5 -  Logical Programming - Operators "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="3"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 5 -  Logical Programming - Operators </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>94</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 6 -  Control Structures - While Loop "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 6 -  Control Structures - While Loop </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 7 -  Control Structures - For Loop "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 7 -  Control Structures - For Loop </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 8 -  Defensive Programming - Error Handling "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 8 -  Defensive Programming - Error Handling </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 9 -  String Handling "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 9 -  String Handling </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 10 -  IO Operations - Input "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 10 -  IO Operations - Input </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 11 -  IO Operations - Output "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="2"
+                                            data-completeness-feedback="4">Task 11 -  IO Operations - Output </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>88</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 12 -  Data Structures - Lists and Dictionaries "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="3"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 12 -  Data Structures - Lists and Dictionaries </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>94</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 13 -  Programming with User-defined Functions "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 13 -  Programming with User-defined Functions </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 14 -  Data Structures - 2D lists "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="3"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 14 -  Data Structures - 2D lists </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>94</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 15 -  Capstone Project - Files "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 15 -  Capstone Project - Files </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- START LEVEL 2 -->
+                <div id="jsLevel2" class="tab-pane">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Task</th>
+                                    <th>Status <a class="status-popover" href="#" data-toggle="popover" title="Status" data-placement="top" data-html="true" data-content=""><i class="fa fa-question-circle"></i></a></th>
+                                    <th>Score</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 1 -  Data Sources "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 1 -  Data Sources </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 2 -  Databases "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 2 -  Databases </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 3 -  SQL "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 3 -  SQL </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>94</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 4 -  Python Packages for Data Science "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 4 -  Python Packages for Data Science </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 5 -  Datasets and DataFrames "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 5 -  Datasets and DataFrames </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 6 -  Data Visualisation - Approach and Techniques "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 6 -  Data Visualisation - Approach and Techniques </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 7 -  Data Visualisation - Tableau "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 7 -  Data Visualisation - Tableau </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 8 -  Data Visualisation - Python Libraries "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 8 -  Data Visualisation - Python Libraries </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 9 -  Data Analysis - Data Cleaning "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 9 -  Data Analysis - Data Cleaning </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 10 -  Data Analysis - Preprocessing "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 10 -  Data Analysis - Preprocessing </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 11 -  Statistics "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 11 -  Statistics </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 12 -  Machine Learning "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 12 -  Machine Learning </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 13 -  Supervised Learning - Linear Regression "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 13 -  Supervised Learning - Linear Regression </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 14 -  Capstone Project - Linear Regression in Action "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 14 -  Capstone Project - Linear Regression in Action </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>                               
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- START LEVEL 3 -->
+                <div id="jsLevel3" class="tab-pane">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Task</th>
+                                    <th>Status <a class="status-popover" href="#" data-toggle="popover" title="Status" data-placement="top" data-html="true" data-content=""><i class="fa fa-question-circle"></i></a></th>
+                                    <th>Score</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 1 -  Supervised Learning - Logistic Regression "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="3"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 1 -  Supervised Learning - Logistic Regression </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>94</td> 
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 2 -  Supervised Learning - Decision Trees "
+                                            data-completeness-score=""
+                                            data-efficiency-score="3"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="3">Task 2 -  Supervised Learning - Decision Trees </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>94</td> 
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 3 -  Supervised Learning - Random Forests "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 3 -  Supervised Learning - Random Forests </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 4 -  Unsupervised Learning - K-means Clustering "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 4 -  Unsupervised Learning - K-means Clustering </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 5 -  Natural Language Processing "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 5 -  Natural Language Processing </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td>
+                                        <span class="jsTaskOverview task-overview"
+                                            data-task-name="Task 6 -  Capstone Project - Natural Language Processing Applications "
+                                            data-completeness-score=""
+                                            data-efficiency-score="4"
+                                            data-style-score="4"
+                                            data-documentation-score="4"
+                                            data-completeness-feedback="4">Task 6 -  Capstone Project - Natural Language Processing Applications </span></td>
+                                    
+                                        
+                                            <td>Completed</td>
+                                        
+                                    
+                                    
+                                    <td>100</td> 
+                                    
+                                </tr>
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>        
+    </section>
+    
+    <section class="col-md-5 col-lg-3 right-side-panel">
+        <div class="text-center average-grade">
+            <span class="number">99</span>
+            <span class="percent-sign">&#37;</span>
+            <span class="label">Average grade</span>
+        </div>
+        <hr/>
+        
+        <div class="text-center rank">
+            <img class="img-responsive lazyload" src="/static/images/vle/portfolio/trophy.svg" alt="Your rank">
+            <p>
+                Ranked <span>5</span> out of 1371&nbsp;students in their class</p>
+        </div>
+        
+        <hr/>
+    </section>    
+</div>
+
+<!-- START MODALS -->
+<div class="modal fade task-overview" id="jsTaskOverviewModal" tabindex="-1" role="dialog" aria-labelledby="jsTaskOverviewLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="container">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <img class="img-responsive lazyload" src="/static/images/vle/portfolio/close.png" alt="Close task overview modal">
+                    </button>
+                     <div class="row">
+                         <div class="col-xs-12 col-sm-5 task-meta">
+                            <h4 class="student-name">Katryn Helberg</h4>
+                            <h5 id="jsTaskName" class="task-name">Task 15 - Recursion</h5>
+                            <p class="course-name">Course: </p>
+                         </div>
+                         <div class="col-xs-12 col-sm-7 task-summary">
+                            <div>
+                                <h5 class="scores">Scores</h5>
+                                <hr/>
+                                <span>Completness: <span id="jsCompletenessScore">4/4</span></span>
+                                <span>Efficiency: <span id="jsEfficiencyScore">4/4</span></span>
+                                <span>Style: <span id="jsStyleScore">4/4</span></span>
+                                <span>Documentation: <span id="jsDocumentationScore">4/4</span></span>
+                            </div>
+                         </div>
+                     </div>
+                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- START | Co-certificate Download Modal Template -->
+<div class="modal fade request-review" id="coCertificateNPSSurveyModal">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content request-review-modal">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h6>Please, let us know how we are doing?</h6>
+            </div>
+            <form id='request-review-form' method="POST">
+                <input type="hidden" name="csrfmiddlewaretoken" value="D9XsHDGwoamIrfYjS9jusJNi6Jg0EhyKdsM80RN3KNMgsUX88cP2yW0PyRGzHGtF">
+                <div class="modal-body text-center" id="nps-survey-section">
+                    <p>
+                        On a scale of 0 (very unlikely) to 10 (very likely) how likely are you to recommend HyperionDev?
+                    </p>
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <p class="nps-scale-label">not likely</p>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                            <input class="nps-scale" type="radio" name="nps-scale" id="option0" value="0">0
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option1" value="1">1
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option2" value="2">2
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option3" value="3">3
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option4" value="4">4
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option5" value="5">5
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option6" value="6">6
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option7" value="7">7
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option8" value="8">8
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option9" value="9">9
+                        </label>
+                        <label class="btn btn-default btn-scale jsNPSscale gtmNPSscale">
+                          <input class="nps-scale" type="radio" name="nps-scale" id="option10" value="10">10
+                        </label>
+                        <p class="nps-scale-label">very likely</p>
+                    </div>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" id="submit-btn-id" class="submit-btn btn request-review__button">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- END | Co-certificate Download Modal Template -->
+
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            $(".menu-item").each(function() {
+                var navItem = $(this);
+                if (navItem.find("a").attr("href") == location.pathname) {
+                    navItem.addClass("active");
+                }
+            });
+
+            $(document).ready(function () {
+                $('#sidebarCollapse').on('click', function () {
+                    $('#sidebar, #content').toggleClass('active');
+                    $('.collapse.in').toggleClass('in');
+                    $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+                });
+            });
+
+            // Submit a query CTA
+            function submitAQuery() {
+                window.open("", '_blank');
+            }
+
+            // Submit a query CTA Dfe
+            function submitAQueryDfe() {
+                window.open("", '_blank');
+            }
+        </script>
+        
+<script type="module" src="/static/js/vle/portfolio.js"></script>
+<!-- START | Co-certificate Download Modal Script -->
+<script>
+    $('button.submit-btn').on('click', function (e) {  
+        $nps_scale = $(".nps-scale:checked").val();
+        
+        let certificate_id = document.querySelector('#co-certificate').dataset.certificateId;
+        let coCertficateDownloadURL = document.querySelector('#co-certificate').dataset.certificateUrl;
+
+        $('#coCertificateNPSSurveyModal').modal('hide');
+        
+        $.ajax({
+            type: "POST",
+            url: "/portfolio/KH24030013026/",
+            dataType: 'json',
+            data: {
+                nps_scale: $nps_scale,
+                csrfmiddlewaretoken: $('input[name=csrfmiddlewaretoken]').val(),
+                student_no: "KH24030013026",
+                certificate_id: certificate_id
+            },
+            success: function (response) {
+                window.location.reload();
+            },
+            error: function(response) {
+                window.location.reload();
+            }
+        });
+        e.preventDefault();
+        return window.location = coCertficateDownloadURL
+    });
+</script>
+<!-- END | Co-certificate Download Modal Script -->
+
+
+
+        <!-- START MODALS -->
+        <div class="modal fade pandemic-modal" id="jsPandemicModal" tabindex="-1" role="dialog" aria-labelledby="jsPandemicModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title text-center" id="jsPandemicModalLabel">HyperionDev COVID-19 policy</h1>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="col-xs-12">
+                                <p>
+                                    As the far-ranging impacts of COVID-19 continue to severely impact our staff, mentors, students, and the rest of the country and world, we wanted to assure you that we are monitoring the situation very closely, to make the best decisions for everyone’s health, safety, and wellbeing.</p>
+                                <p>
+                                    Because of the uncertain and quickly developing situation, we’ve decided to implement the following policies to safeguard our students and employees.</p>
+                                <h2>Our online bootcamps remain totally unaffected</h2>
+                                <ul>
+                                    <li>
+                                        Online coding bootcamps will continue as they currently are, as our online programs are not affected by restrictions to travel, social distancing, or other such emergency control measures.</li>
+                                </ul>
+                                <h2>All student support will still be available online</h2>
+                                <ul>
+                                    <li>
+                                        On-site lectures will be conducted via online conferencing software.</li>
+                                    <li>
+                                        On-demand support will be available through dedicated communication tools and channels where lecturers, mentors and teaching assistants will be available to assist students with their difficulties and questions throughout the day.</li>
+                                </ul>
+                                <h2>On-site bootcamps will be taught remotely</h2>
+                                <ul>
+                                    <li>
+                                        As of Monday 23 March 2020, students will not be coming into our physical campuses. This is a preventative measure to help reduce the risk of infection and to keep everyone safe, and is in line with the 26 March 2020 National Lockdown.</li>
+                                    <li>
+                                        Students will still be receiving daily lectures according to the current lecture schedule, as well as on-demand support from our teaching staff.</li>
+                                </ul>
+                                <h2>Our graduation events have been postponed</h2>
+                                <ul>
+                                    <li>
+                                        We have postponed all public events until further notice. We hope we’ll be able to reach out again soon with a new date for our next Johannesburg and Cape Town graduation dates.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Go back</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+
